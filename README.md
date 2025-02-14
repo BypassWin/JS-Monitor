@@ -22,3 +22,6 @@ while True:
  print("New JavaScript files detected:", new_files)
  previous_js_files = current_js_files
 ```
+
+> [!Warning]
+> This is only for educationally purposes! Always ensure proper permission before doing anything!
